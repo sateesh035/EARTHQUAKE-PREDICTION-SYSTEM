@@ -1,0 +1,2 @@
+# EARTHQUAKE-PREDICTION-SYSTEM
+earthquake system
